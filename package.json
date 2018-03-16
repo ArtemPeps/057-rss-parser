@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "name": "057-rss-parser",
+  "description": "057 rss news parser ",
+  "author": "peps",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "feed-read": "*"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
